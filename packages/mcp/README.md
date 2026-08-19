@@ -1238,7 +1238,7 @@ Any one signal short-circuits before the network call. Details: [docfork.com/tel
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=docfork/docfork&type=Date)](https://www.star-history.com/#docfork/docfork&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=docfork/docfork&type=Date)](https://star-history.dera.page/#docfork/docfork&Date)
 
 ## Disclaimer
 
